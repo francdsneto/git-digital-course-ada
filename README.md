@@ -2,7 +2,7 @@
 
 ## Gravando mudanças no repositório
 
-> Projeto de acompanhamento do curso Santanders Code 2024
+> Projeto de acompanhamento do curso Santander Coders 2024
 
 * Comando git push
 * Simulando commit externo para obtenção via git pull
